@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Swiper custom styles */
+.swiper-pagination-bullet {
+    background: #ccc;
+  }
+  .swiper-pagination-bullet-active {
+    background: #2874f0 !important;
+  }
